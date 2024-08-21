@@ -8,4 +8,4 @@ NOTE: When using PowerShell, make sure to either provide an absolute path (like 
 
 ## TODO
 - Make the program support using " to make paths with spaces in them work
-- Add comments?
+- ~~Add comments?~~ <- won't do
